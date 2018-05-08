@@ -9,7 +9,8 @@ RUN apt-get install -y --no-install-recommends \
 	bzip2 \
 	git \
 	lsof \
-	libncurses5
+	libncurses5 \
+	make
 
 #Install Google Chrome
 #https://www.google.com/linuxrepositories/
